@@ -1,0 +1,3 @@
+Sync - 0.53070675
+Threading - 0.524539208
+Multiprocessing - 0.19626300000000008
